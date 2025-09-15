@@ -21,7 +21,8 @@ The dashboard provides actionable insights into sales, profit, customers, and re
 ## Files Included
 
 - `sales dashboard.xlsx` → The Excel file containing the dataset, pivot tables, and dashboard.  
-- `dashboard.png` → Screenshot preview of the dashboard for quick reference.  
+- `dashboard.png` → Screenshot preview of the dashboard for quick reference.
+- `dashboard dataset`→ Dataset that is used in sales dashboard
 
 ---
 
